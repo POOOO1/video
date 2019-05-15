@@ -9,6 +9,9 @@ import android.widget.VideoView;
 
 public class MainActivity extends AppCompatActivity {
 
+
+
+
     VideoView videoPlayer;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
